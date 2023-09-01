@@ -33,7 +33,7 @@ transform:scale(1.25);
 
 /*This is a main image that was found on pexels a royalty free site of a mountain in Mexico and the attributes added to it*/
 .main-image{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Assets/IMG/mexico.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Assets/IMG/mexico.jpeg);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
